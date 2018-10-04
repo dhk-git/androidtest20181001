@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ListViewTest" />
             <option value="$PROJECT_DIR$/intenttest" />
+            <option value="$PROJECT_DIR$/volleytest" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
