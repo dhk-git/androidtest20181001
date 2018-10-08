@@ -1,1 +1,1 @@
-include ':ListViewTest', ':intenttest', ':volleytest'
+include ':ListViewTest', ':intenttest', ':volleytest', ':webapitest'
